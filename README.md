@@ -22,4 +22,4 @@
 
 5. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
-![]()
+![](https://github.com/ocarolinne/belly-button-challenge/blob/main/Images/Screenshot%202024-08-28%20at%2011.52.59%E2%80%AFPM.png)
